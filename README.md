@@ -33,10 +33,10 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 ### WEB3
 
 <p>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img  style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://avatars.githubusercontent.com/u/18492273?s=200&v=4" width="36" height="36" alt="Ethers" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img  style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://avatars.githubusercontent.com/u/18492273?s=200&v=4" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg?raw=true" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img  style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img  style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="36" height="36" alt="IPFS" /></a>
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 <a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
