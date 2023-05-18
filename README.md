@@ -1,6 +1,6 @@
 # Hi 👋 I am Pest!
 
-Pest is a Linux nerd turned Web3 dev. He has many years of experience in the web3 industry as a full stack and lead developer. I Like gettings things done , and done the right way.
+I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 industry as a full stack and lead developer. I Like gettings things done , and done the right way.
 
 - 🌍  I'm based in Mexico
 - 🚀  I'm currently working on [cerusnodes.io](http://cerusnodes.io)
