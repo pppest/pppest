@@ -39,6 +39,8 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a></p>
+<a href="https://github.com/OpenZeppelin" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" width="36" height="36" alt="OpenZeppelin" /></a></p>
+
 
 ### Blockchains
 
