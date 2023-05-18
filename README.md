@@ -6,7 +6,9 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 - 🌍 I'm based in Mexico
 - 🚀 I'm currently working on [cerusnodes.io](http://cerusnodes.io)
 - 🤝 I'm open to collaborating on web3 projects
-- Learning Rust
+- 📖 I'm Learning Rust
+
+---
 
 ## Skills
 
@@ -17,14 +19,13 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"><img style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/solidity-icon.svg" width="36" height="36" alt="Solidity" /></a>
-
+<a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"><img style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://tintinweb.gallerycdn.vsassets.io/extensions/tintinweb/vscode-solidity-flattener/0.0.11/1647941306788/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Solidity" /></a>
 </p>
 
 ### Front end
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a  style="color:white;" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a  style="color:white;" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://i.ytimg.com/an/cxm6FNyKzwA/3903739474801779860_mq.jpg?v=62a9dfef" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
 ### WEB3
@@ -42,7 +43,7 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://github.com/OpenZeppelin" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" width="36" height="36" alt="OpenZeppelin" /></a></p>
 
 
-### Blockchains
+### Blockchains: EVMs
 
 <a  href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img style="padding: 0px 0px 0px 0px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
@@ -50,6 +51,9 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png" width="36" height="36" alt="Fantom Opera" /></a>
 <a href="https://www.bnbchain.org/en" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="36" height="36" alt="BNB Chain" /></a>
 <a href="https://www.metis.io/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png" width="36" height="36" alt="Metis DAO" /></a>
+<p/>
+
+### Blockchains: Non-EVMs
 <a href="https://devault.cc/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://github.com/devaultcrypto/dvtgraphics/blob/master/Icons/DVT-Logo-D-100px-Light.png?raw=true" width="36" height="36" alt="DeVault" /></a>
 
 ### Other tools etc
@@ -82,7 +86,7 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 </span>
 </div>
 
-## Projects
+## Fun Projects
 
 ### DeVault ATM
 ![A DeVault ATM youtube](https://github.com/pppest/devault-atm-touch/blob/master/images/atm-vid-fast.gif)   
