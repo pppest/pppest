@@ -32,7 +32,6 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 
 ### WEB3
 
-<p>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img  style="border-radius: 5px;background: white;padding: 2px 2px;" src="https://avatars.githubusercontent.com/u/18492273?s=200&v=4" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg?raw=true" width="36" height="36" alt="Web3Js" /></a>
@@ -42,7 +41,8 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
-<a href="https://github.com/OpenZeppelin" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" width="36" height="36" alt="OpenZeppelin" /></a></p>
+<a href="https://github.com/OpenZeppelin" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" width="36" height="36" alt="OpenZeppelin" /></a>
+<a href="https://github.com/LayerZero-Labs" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/90789833?s=200&v=4" width="36" height="36" alt="Metis DAO" /></a>
 
 ### Blockchains: EVMs
 
@@ -53,10 +53,9 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://www.bnbchain.org/en" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="36" height="36" alt="BNB Chain" /></a>
 <a href="https://www.metis.io/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png" width="36" height="36" alt="Metis DAO" /></a>
 
-<p/>
-
 ### Blockchains: Non-EVMs
 
+<p>
 <a href="https://devault.cc/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://github.com/devaultcrypto/dvtgraphics/blob/master/Icons/DVT-Logo-D-100px-Light.png?raw=true" width="36" height="36" alt="DeVault" /></a>
 
 ### Other tools etc
