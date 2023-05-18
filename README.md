@@ -64,22 +64,17 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <div style=" display: flex; flex-direction: row;">
 <span style=" display: flex; flex-direction: column;padding: 0px 10px 10px 0px;align-items:center;">
  <img style="padding: 0px 2px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/120px-Flag_of_the_United_Kingdom.svg.png" alt="english" width="60" height="40"/>
-English 100%
 </span>
 <span style=" display: flex; flex-direction: column;;padding: 0px 10px;align-items:center;">
  <img style="padding: 0px 2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/120px-Flag_of_Denmark.svg.png" alt="danish" width="60" height="40"/>
-Dansk 100%
 </span>
 <span style=" display: flex; flex-direction: column;;padding: 0px 10px;align-items:center;">
  <img style="padding: 0px 2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/120px-Flag_of_Mexico.svg.png" alt="spanish" width="60" height="40"/>
-Español 100%
 </span>
 <span style=" display: flex; flex-direction: column;;padding: 0px 10px;align-items:center;">
  <img style="padding: 0px 2px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/120px-Flag_of_Germany.svg.png" alt="german" width="60" height="40"/>
-Deutsch 50%
 </span>
 <span style=" display: flex; flex-direction: column;;padding: 0px 10px;align-items:center;">
  <img style="padding: 0px 2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/120px-Flag_of_the_Netherlands.svg.png" alt="dutch" width="60" height="40"/>
-Nederlands 50%
 </span>
 </div>
