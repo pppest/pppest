@@ -81,3 +81,9 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
  <img style="padding: 0px 2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/120px-Flag_of_the_Netherlands.svg.png" alt="dutch" width="60" height="40"/>
 </span>
 </div>
+
+## Projects
+
+### DeVault ATM
+![A DeVault ATM youtube](https://github.com/pppest/devault-atm-touch/blob/master/images/atm-vid-fast.gif)   
+[Repository](https://github.com/pppest/devault-atm-touch)
