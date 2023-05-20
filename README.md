@@ -1,6 +1,6 @@
 # 🧨💥 It's me Pest! 👋
 
-**`WEB3 developer`**
+**`WEB3 DEV`** **`LINUX USER`**
 
 I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 industry as a full stack and lead developer. I Like gettings things done , and done the right way.
 
@@ -64,8 +64,6 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-
-</p>
 
 ### Human Languages
 
