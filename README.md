@@ -2,7 +2,7 @@
 
 **`WEB3 DEV`** **`LINUX USER`**
 
-I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 industry as a full stack and lead developer. I Like gettings things done , and done the right way.
+I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 industry as a full stack and lead developer. 
 
 - 🚀 I'm currently working on [cerusnodes.io](http://cerusnodes.io)
 - 🤝 I'm open to collaborating on web3 projects
