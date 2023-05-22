@@ -2,7 +2,7 @@
 
 **`WEB3 DEV`** **`LINUX USER`**
 
-I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 industry as a full stack and lead developer. 
+I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 industry as a full stack and lead developer.
 
 - 🚀 I'm currently working on [cerusnodes.io](http://cerusnodes.io)
 - 🤝 I'm open to collaborating on web3 projects
@@ -43,14 +43,18 @@ I am a Linux nerd turned Web3 dev. I have many years of experience in the web3 i
 <a href="https://github.com/OpenZeppelin" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" width="36" height="36" alt="OpenZeppelin" /></a>
 <a href="https://github.com/LayerZero-Labs" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://avatars.githubusercontent.com/u/90789833?s=200&v=4" width="36" height="36" alt="Metis DAO" /></a>
 
+### AI
+
+<img style="padding: 0px 0px 0px 0px;" src="./images/chatgpt.png" width="100" height="32" alt="ChatGPT" />
+
 ### Blockchains: EVMs
 
 <a  href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img style="padding: 0px 0px 0px 0px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png" width="36" height="36" alt="Fantom Opera" /></a>
-<a href="https://www.bnbchain.org/en" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" width="36" height="36" alt="BNB Chain" /></a>
-<a href="https://www.metis.io/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png" width="36" height="36" alt="Metis DAO" /></a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="./images/evms/ftm.png" width="36" height="36" alt="Fantom Opera" /></a>
+<a href="https://www.bnbchain.org/en" target="_blank" rel="noreferrer"><img style="padding: 0px 2px;" src="./images/evms/bnb.png" width="36" height="36" alt="BNB Chain" /></a>
+<a href="https://www.metis.io/" target="_blank" rel="noreferrer"><img style="border-radius: 25px;padding: 0px 2px;" src="./images/evms/metis.png" width="36" height="36" alt="Metis DAO" /></a>
 
 ### Blockchains: Non-EVMs
 
